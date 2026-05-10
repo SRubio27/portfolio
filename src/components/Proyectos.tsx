@@ -15,7 +15,7 @@ const proyectos: Proyecto[] = [
     categoria: "Página web",
     descripcion: "Aplicación de seguimiento financiero personal con autenticación y gráficos interactivos",
     tags: ["React", "TypeScript", "NestJS", "PostgreSQL"],
-    imagen: "src/assets/finance-tracker-screenshoot.png",
+    imagen: "../src/assets/finance-tracker-screenshoot.png",
     año: "2025",
   },
   {
@@ -23,7 +23,7 @@ const proyectos: Proyecto[] = [
     categoria: "Producto SaaS",
     descripcion: "Proyecto SaaS para restaurantes que permite crear cartas digitales personalizadas con QR y gestión de menú",
     tags: ["React", "TypeScript", "NestJS", "PostgreSQL"],
-    imagen: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&auto=format&fit=crop",
+    imagen: "../src/assets/tu-carta-facil-screenshot.png",
     año: "2025",
   },
 ];
